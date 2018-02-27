@@ -1,6 +1,6 @@
-# Indeed Job Scrapper (Latest)
+# Indeed Job Scraper (Latest)
 
-Indeed Job Scrapper for multiple cities and job roles. This is an updated version of code presented by Michael Salmon in https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b with added functionality of fetching full text from job source.
+Indeed Job Scraper for multiple cities and job roles. This is an updated version of code presented by Michael Salmon in https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b with added functionality of fetching full text from job source.
 
 ## How to Run
 
@@ -14,7 +14,7 @@ Background,
 
 ## Logs
 
-Logs will be gerenated in **log.txt** file. Install watch to keep a track while running scrapper in background.
+Logs will be gerenated in **log.txt** file. Install watch to keep a track while running scraper in background.
 
 > watch tail -n 30 log.txt
 
